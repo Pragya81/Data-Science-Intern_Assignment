@@ -1,0 +1,16 @@
+Task 3: Customer Segmentation / Clustering
+Perform customer segmentation using clustering techniques. Use both profile information
+(from Customers.csv) and transaction information (from Transactions.csv).
+● You have the flexibility to choose any clustering algorithm and any number of clusters in
+between(2 and 10)
+● Calculate clustering metrics, including the DB Index(Evaluation will be done on this).
+● Visualise your clusters using relevant plots.
+Deliverables:
+● A report on your clustering results, including:
+○ The number of clusters formed.
+○ DB Index value.
+○ Other relevant clustering metrics.
+● A Jupyter Notebook/Python script containing your clustering code.
+Evaluation Criteria:
+● Clustering logic and metrics.
+● Visual representation of clusters.
